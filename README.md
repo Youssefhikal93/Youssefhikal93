@@ -44,10 +44,10 @@ Language and Tools</h3>
 ### 📊 Top Languages
 
 <p align="left">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Youssefhikal93&theme=github_dark" alt="Top Languages by Repo" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Youssefhikal93&theme=github_dark" alt="Top Languages by Commit" />
+  <img src="profile-summary-card-output/github_dark/1-repos-per-language.svg" alt="Top Languages by Repo" />
+  <img src="profile-summary-card-output/github_dark/2-most-commit-language.svg" alt="Top Languages by Commit" />
 </p>
 <p align="left">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Youssefhikal93&theme=github_dark" alt="Top Languages Bar Chart" />
+  <img src="profile-summary-card-output/github_dark/0-profile-details.svg" alt="Profile Details" />
 </p>
 
